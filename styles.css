@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+    font-family: "Poppins" , sans-serif;
+    padding-top: 20px;
+}
+h2{
+    color: white;
+    margin-left: 30px;
+}
+p{
+    color: white;
+    font-size: 20px;
+    font-family: "Poppins" , sans-serif;
+    margin-left: 35px;
+}
+button{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    font-size: 50px;
+    background-color: black;
+    border-color: #FAC130;
+    margin-right: 15px;
+    cursor: pointer;
+    margin-left: 35px;
+    margin-top: 15px;
+}
+
+.reset-btn{
+    color: white;
+    font-size: 20px;
+    height: 35px;
+    width: 80px;
+    border-radius: 2px;
+    font-family: "Poppins" , sans-serif;
+
+}
